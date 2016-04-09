@@ -29,5 +29,12 @@ public class ClaseJavier {
          }  
          System.out.println("\nCantidad de numeros pares: " + pares);  
          System.out.println("Cantidad de numeros impares: " + impares);           
-     }         
+     
+     System.out.println("Prueba de Git");
+     //Multiplicación
+     int numero1 =scanner.nextInt();
+     int numero2 = scanner.nextInt();
+     int multiplicacion = numero1 * numero2;
+         System.out.println(multiplicacion);
+             }         
 }  
