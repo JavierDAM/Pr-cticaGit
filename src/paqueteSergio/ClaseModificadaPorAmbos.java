@@ -15,6 +15,6 @@ package paqueteSergio;
 public class ClaseModificadaPorAmbos {      
      public static void main(String[] args) {  
            
-System.out.println("Vamos a hacer una prueba sobre esta clase");
+System.out.println(" prueba sobre esta clase");
      }         
 }  
